@@ -4,7 +4,11 @@ public class MainClass
 {
 	public static void main(String[] args) 
 	{
+		SalesClass s = new SalesClass();
+		s.show();
+		
 		System.out.println("Yoo.!! BBye.!!");
+		greet();
 	}
 	
 	public static void greet()
