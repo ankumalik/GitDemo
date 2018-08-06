@@ -4,8 +4,8 @@ public class MainClass
 {
 	public static void main(String[] args) 
 	{
-		SalesClass s = new SalesClass();
-		s.show();
+		SalesClass sale = new SalesClass();
+		sale.show();
 		
 		MarketingClass m = new MarketingClass();
 		m.market();
