@@ -7,6 +7,15 @@ public class MainClass
 		SalesClass s = new SalesClass();
 		s.show();
 		
+		MarketingClass m = new MarketingClass();
+		m.market();
+		
+		CustClass c = new CustClass();
+		c.cust();
+		
+		MoneyClass mc = new MoneyClass();
+		mc.money();
+		
 		System.out.println("Yoo.!! BBye.!!");
 		greet();
 	}
