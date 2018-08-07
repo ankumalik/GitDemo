@@ -1,0 +1,3 @@
+INDEX VERSION 1.130
+D:\GitWale2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2418279771.index
+\MySample_PLP_project\src\main\java
